@@ -1,5 +1,7 @@
 # Developer-Roadmap-with-Resources
 
+Goal: Filling my skill gaps to become a Fullstack Javascript Developer
+
 I compiled this opinionated roadmap from the following sources:  
 
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -13,6 +15,7 @@ I compiled this opinionated roadmap from the following sources:
 * [ Developer Survey Results 2019](insights.stackoverflow.com/survey/2019)
 * [State of CSS 2019](https://2019.stateofcss.com/)
 
+The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ![DevRoadmap](/DevRoadmap.png)
 
 ## General Development Skills
@@ -46,13 +49,13 @@ I compiled this opinionated roadmap from the following sources:
 
 ### Productivity
 
-### [x] Markdown
+###  :white_check_mark: Markdown
 
-Resources:  
-[Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdfs)  
+* Resources:  
+[Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-Apply
+* Apply
 
 ### SSH
 
@@ -60,7 +63,7 @@ Apply
 
 ### Design Patterns
 
-### SOft Skills
+### Soft Skills
 
 ### JSON
 
