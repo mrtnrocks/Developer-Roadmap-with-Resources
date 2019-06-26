@@ -16,6 +16,7 @@ I compiled this opinionated roadmap from the following sources:
 * [State of CSS 2019](https://2019.stateofcss.com/)
 
 The Roadmap is not 100% correct, but sufficient accurate for my purpose.
+
 ![DevRoadmap](/DevRoadmap.png)
 
 ## General Development Skills
@@ -28,6 +29,12 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ### Agile Development
 
 ### UX/UI Basics
+
+* Colors
+  * [Van Schneider](https://www.vanschneider.com/colors)
+
+* Inspiration
+  * [One Page Love](https://onepagelove.com/)
 
 ### Semantic Versioning
 
@@ -55,7 +62,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-* Apply
+* Apply Skill:
+  this repo
 
 ### SSH
 
@@ -87,15 +95,18 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### CSS 
 
-* Media Queries
 * CSS Basics
+  * [Font Inpection - Browser Extension](https://fontanello.oktavilla.se/)
 * CSS3
+  * [freefrontend.com](https://freefrontend.com/)
+* Media Queries
 * Media Layout
     * Display
     * Positioning
     * Floats
     * CSS Flexbox
     * CSS Grid
+      * [Complete Guide to Grid - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### SVG
 
@@ -290,6 +301,7 @@ It is faster than JS and has already shipped in all major browsers
 * NPM
   * Create + Publish Package
 * Contribute to Open Source
+  * [FCC - How to contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 * Security 
   * OWASP / NodeGoat
 * Community Standards & Best Practices
@@ -402,13 +414,20 @@ What & how ?
 
 ### Understand different OS Concepts
 
+[Components of an OS](https://www.coursera.org/lecture/technical-support-fundamentals/components-of-an-operating-system-dMmYy)
+
 * Process Management
+  * !https://www.coursera.org/lecture/technical-support-fundamentals/process-management-fWidx
 * Threads & Concurrency
+  * !https://www.coursera.org/lecture/technical-support-fundamentals/process-management-fWidx
 * Sockets
 * File Systems
+  * !https://www.coursera.org/lecture/technical-support-fundamentals/files-and-file-systems-5n8dt
 * I/O Management
-* VIrtualization
+  * !https://www.coursera.org/lecture/technical-support-fundamentals/i-o-management-AeNE4
+* Virtualization
 * Memory / Storage
+  * !https://www.coursera.org/lecture/technical-support-fundamentals/memory-management-CKcxg
   
 ### Learn about Managing Servers
 
