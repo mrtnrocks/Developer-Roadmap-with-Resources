@@ -477,6 +477,10 @@ What is CI/CD?
 
 ## Keep Learning
 
+### Additional
+
+[Teach yourself CS](https://teachyourselfcs.com/)
+
 
 
 
