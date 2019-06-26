@@ -29,16 +29,21 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 - [Git Standup](https://github.com/kamranahmedse/git-standup)
 - [Trunk based Dev vs Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow?utm_campaign=Engigogo%2BDigest&utm_medium=email&utm_source=Engigogo_Digest_41)
 - [.gitignore CLI](https://dev.to/christopherkade/i-created-a-gitignore-command-line-generator-4b0h)
+- [Git Explorer](https://gitexplorer.com/)
 
 ### Agile Development
 
 - https://www.atlassian.com/agile
+- https://github.com/davebs/AgileLite
 
 ### UX/UI Basics
+
+- [Front End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
 - Roadmap
 
   - https://github.com/togiberlin/ui-ux-designer-roadmap/blob/master/README.md
+  - https://dev.to/emmawedekind/ux-engineering-3hem
 
 - Colors
 
@@ -83,6 +88,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode#kanban)
 - [Microsoft - VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 - [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
+- https://coder.com/
 
 ### Character Encodings
 
@@ -100,6 +106,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### Productivity
 
+- [Learn in public](https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5)
 - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
 - [8 am](https://benjaminhardy.com/8am/)
 
@@ -118,21 +125,24 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 - [tl;dr Legal](https://tldrlegal.com/)
 - [Choose a License](https://choosealicense.com/)
 
-### Design Patterns
-
 ### Soft Skills
+
+- https://github.com/elsewhencode/project-guidelines
 
 ### JSON
 
 ### Basic Terminal Usage
 
-- [https://github.com/jlevy/the-art-of-command-line#windows-only](https://github.com/jlevy/the-art-of-command-line#windows-only)
+- [The Art of Command-line](https://github.com/jlevy/the-art-of-command-line#windows-only)
+- https://explainshell.com/
 
 ### Data Structures & Algorithms
 
 ### Regular Expressions
 
 ## Frontend
+
+[Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 ### HTML
 
@@ -164,6 +174,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [Blend Mode](https://blendy.ml/)
   - [Gradient Borders](https://css-tricks.com/gradient-borders-in-css/)
   - [Codyhouse](codyhouse.co/)
+  - [Multi Line](https://codepen.io/tfoh/full/VQqRdB/)
+  - [Stripe Background Gradient](https://codepen.io/tfoh/full/YxYxbj/)
 - Media Queries
   - https://sizzy.co/
 - Media Layout
@@ -182,6 +194,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 - https://svgjs.com/docs/2.7/
 
 ### Javascript Basics
+
+https://github.com/getify/You-Dont-Know-JS/
 
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
 - Syntax & Basic Constructs
@@ -228,6 +242,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 - Linter
   - ES Lint
     - [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
+    - https://github.com/wesbos/eslint-config-wesbos
 - Formatter
   - Prettier
     - https://css-tricks.com/prettier-beautify/
@@ -262,7 +277,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - Enzyme
   - Cypress
 
-- Storybook
+* Storybook
+  - https://egghead.io/lessons/react-introducing-design-systems-with-react-and-typescript-in-storybook
 
 ### Type Checking
 
@@ -305,6 +321,7 @@ Calculating, measuring & improving Performance
 
 - REPL Pattern
 - Performance
+  - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
   - https://web.dev/
   - https://instant.page/
   - https://imagecompressor.com/
@@ -356,6 +373,7 @@ SPA vs SSR
 ### Advanced Javascript
 
 Constantly improve your JS Skills along the way
+https://github.com/getify/You-Dont-Know-JS/
 
 - OOP
 - Inheritance
@@ -364,7 +382,10 @@ Constantly improve your JS Skills along the way
 - Typescript
 - Debugging
 - Algorithms & Data Structures
+  - https://github.com/trekhleb/javascript-algorithms
 - ES7+
+- Design Patterns
+  - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 ### Web Assembly
 
@@ -550,6 +571,7 @@ https://serverless.css-tricks.com/
 
 - Containers
   - Docker
+    - https://nodedock.io/#/
 - Configuration Management
   - Ansible
 - Container Orchestration
