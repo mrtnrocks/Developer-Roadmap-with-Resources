@@ -44,17 +44,23 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
   - [Van Schneider](https://www.vanschneider.com/colors)
   - [Culrs](https://culrs.com/#/)
+  - [Colorbox](https://www.colorbox.io/)
 
 - Font
 
   - [Font Pairings](https://logosbynick.com/logo-font-pairings/)
 
 - Inspiration
-
+  - [Web Design Trends 2019](https://webflow.com/blog/20-web-design-trends-for-2019)
   - [Hall of Fame](https://www.pages.xyz/)
   - [One Page Love](https://onepagelove.com/)
+  - https://twitter.com/i/moments/994601867987619840
 
-* Resources & Tools
+* Icons
+  - [Feathericons](https://feathericons.com/)
+  - [Unicons](https://iconscout.com/unicons)
+
+- Resources & Tools
   - https://www.designcurated.io/
   - http://www.uigoodies.com/
   - https://github.com/LisaDziuba/Awesome-Design-Tools
@@ -62,6 +68,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [Beautiful Screenshot Mockups](https://www.screely.com/)
   - [Evernote.Design](https://www.evernote.design/)
   - [SVG Porn](https://svgporn.com/)
+  - https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/
 
 ### Semantic Versioning
 
@@ -75,6 +82,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode#kanban)
 - [Microsoft - VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
+- [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
 
 ### Character Encodings
 
@@ -122,16 +130,19 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### Data Structures & Algorithms
 
-## Regular Expressions
+### Regular Expressions
 
 ## Frontend
 
 ### HTML
 
 - Basics
+  - [Favicon Generator](https://favicon.io/)
+  - [Favicon Checker](http://colinkeany.com/favicon-checker/)
 - Semantics HTML
   - https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
 - Basic SEO
+  - https://web.dev/
   - [Metatags.io](https://metatags.io/)
   - [HeyMeta.io](http://www.heymeta.com/)
   - [Schmea.org](https://schema.org/docs/schemas.html)
@@ -143,11 +154,18 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ### CSS
 
 - CSS Basics
+  - [Tympanus CSS Reference](https://tympanus.net/codrops/css_reference/)
   - [Font Inpection - Browser Extension](https://fontanello.oktavilla.se/)
+  - https://getcssscan.com/
 - CSS3
   - [freefrontend.com](https://freefrontend.com/)
   - [Clip Path Maker](https://bennettfeely.com/clippy/)
+  - [CSS FX ](https://cssfx.dev/)
+  - [Blend Mode](https://blendy.ml/)
+  - [Gradient Borders](https://css-tricks.com/gradient-borders-in-css/)
+  - [Codyhouse](codyhouse.co/)
 - Media Queries
+  - https://sizzy.co/
 - Media Layout
   - Display
   - Positioning
@@ -160,6 +178,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
     - http://grid.malven.co/
 
 ### SVG
+
+- https://svgjs.com/docs/2.7/
 
 ### Javascript Basics
 
@@ -185,6 +205,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 - SASS
 - PostCSS
+  - https://cssnano.co/
 
 ### CSS Frameworks
 
@@ -206,6 +227,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - Parcel
 - Linter
   - ES Lint
+    - [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - Formatter
   - Prettier
     - https://css-tricks.com/prettier-beautify/
@@ -280,14 +302,21 @@ Interpreted vs Compiled Languages
 ### Progressive Web Apps
 
 Calculating, measuring & improving Performance
-_ REPL Pattern
-_ Performance Metrics
-_ RAIL Model
-_ Using Light House
-_ Critical Rendering Path
-_ Using Dev Tools
+
+- REPL Pattern
+- Performance
+  - https://web.dev/
+  - https://instant.page/
+  - https://imagecompressor.com/
+  - https://caniuse.com/
+  - https://squoosh.app/
+- RAIL Model
+- Using Light House
+- Critical Rendering Path
+- Using Dev Tools
 
 Learn different Web APIs used in PWAs
+https://whatwebcando.today/
 
 - Storage
 - Web Sockets
@@ -457,6 +486,8 @@ What & how ?
 
 ### Serverless
 
+https://serverless.css-tricks.com/
+
 - FaaS
   - AWS Lambda
 - Serviceful
@@ -494,6 +525,7 @@ What & how ?
 - Learn to live in the Terminal
 - Operation System
   - Linux
+    - [Linux Subsystem for Windows](https://devblogs.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/)
 
 ## Networking & Security
 
