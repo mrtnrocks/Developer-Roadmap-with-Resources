@@ -46,10 +46,13 @@ I compiled this opinionated roadmap from the following sources:
 
 ### Productivity
 
-### Markdown
+### - [x] Markdown
 
-- [x] [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdfs)
-- [x] [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+Resources:  
+[Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdfs)
+[Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+Apply
 
 ### SSH
 
