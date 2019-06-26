@@ -46,10 +46,10 @@ I compiled this opinionated roadmap from the following sources:
 
 ### Productivity
 
-### - [x] Markdown
+### [x] Markdown
 
 Resources:  
-[Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdfs)
+[Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdfs)  
 [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 Apply
