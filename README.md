@@ -26,15 +26,33 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### Git & Github
 
+* [How to callaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github)
+
 ### Agile Development
+
+* https://www.atlassian.com/agile
 
 ### UX/UI Basics
 
+* Roadmap
+  * https://github.com/togiberlin/ui-ux-designer-roadmap/blob/master/README.md
+
 * Colors
   * [Van Schneider](https://www.vanschneider.com/colors)
+  * [Culrs](https://culrs.com/#/)
+
+* Font
+  * [Font Pairings](https://logosbynick.com/logo-font-pairings/)
 
 * Inspiration
   * [One Page Love](https://onepagelove.com/)
+
+* Resources & Tools
+  * https://www.designcurated.io/
+  * http://www.uigoodies.com/
+  * https://github.com/LisaDziuba/Awesome-Design-Tools
+  * [Illustrations ManyPixel](https://gallery.manypixels.co/)
+  * [Beautiful Screenshot Mockups](https://www.screely.com/)
 
 ### Semantic Versioning
 
@@ -44,6 +62,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### VS Code
 
+* [Awesome VS Code](https://github.com/viatsko/awesome-vscode#kanban)
+
 ### Character Encodings
 
 ### APIs
@@ -51,6 +71,9 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ### How Browsers work
 
 ### DNS
+
+* [DNS in One Picture](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
+* [Web Devs Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
 
 ### Browser Dev Tools
 
@@ -68,6 +91,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ### SSH
 
 ### Licenses
+
+* [tl;dr Legal](https://tldrlegal.com/)
 
 ### Design Patterns
 
@@ -90,8 +115,12 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 * Basics
 * Semantics HTML
+  * https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
 * Basic SEO
+  * [Metatags.io](https://metatags.io/)
+  * [HeyMeta.io](http://www.heymeta.com/)
 * Accessebility
+  * [Accessibility Manifesto](http://accessibilitymanifesto.com/introduction)
 
 ### CSS 
 
@@ -99,6 +128,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   * [Font Inpection - Browser Extension](https://fontanello.oktavilla.se/)
 * CSS3
   * [freefrontend.com](https://freefrontend.com/)
+  * [Clip Path Maker](https://bennettfeely.com/clippy/)
 * Media Queries
 * Media Layout
     * Display
@@ -154,6 +184,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   * ES Lint
 * Formatter
   * Prettier
+    * https://css-tricks.com/prettier-beautify/
 
 ### React
 
@@ -305,6 +336,7 @@ It is faster than JS and has already shipped in all major browsers
 * Security 
   * OWASP / NodeGoat
 * Community Standards & Best Practices
+  * https://github.com/i0natan/nodebestpractices
 
 ### Testing
 
@@ -417,17 +449,17 @@ What & how ?
 [Components of an OS](https://www.coursera.org/lecture/technical-support-fundamentals/components-of-an-operating-system-dMmYy)
 
 * Process Management
-  * !https://www.coursera.org/lecture/technical-support-fundamentals/process-management-fWidx
+  * https://www.coursera.org/lecture/technical-support-fundamentals/process-management-fWidx
 * Threads & Concurrency
-  * !https://www.coursera.org/lecture/technical-support-fundamentals/process-management-fWidx
+  * https://www.coursera.org/lecture/technical-support-fundamentals/process-management-fWidx
 * Sockets
 * File Systems
-  * !https://www.coursera.org/lecture/technical-support-fundamentals/files-and-file-systems-5n8dt
+  * https://www.coursera.org/lecture/technical-support-fundamentals/files-and-file-systems-5n8dt
 * I/O Management
-  * !https://www.coursera.org/lecture/technical-support-fundamentals/i-o-management-AeNE4
+  * https://www.coursera.org/lecture/technical-support-fundamentals/i-o-management-AeNE4
 * Virtualization
 * Memory / Storage
-  * !https://www.coursera.org/lecture/technical-support-fundamentals/memory-management-CKcxg
+  * https://www.coursera.org/lecture/technical-support-fundamentals/memory-management-CKcxg
   
 ### Learn about Managing Servers
 
