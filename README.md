@@ -48,6 +48,9 @@ I compiled this opinionated roadmap from the following sources:
 
 ### Markdown
 
+- [x] [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdfs)
+- [x] [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 ### SSH
 
 ### Licenses
