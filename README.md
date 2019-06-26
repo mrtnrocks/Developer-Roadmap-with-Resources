@@ -25,11 +25,18 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### Git & Github
 
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [How to callaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github)
 - [Git Standup](https://github.com/kamranahmedse/git-standup)
 - [Trunk based Dev vs Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow?utm_campaign=Engigogo%2BDigest&utm_medium=email&utm_source=Engigogo_Digest_41)
 - [.gitignore CLI](https://dev.to/christopherkade/i-created-a-gitignore-command-line-generator-4b0h)
 - [Git Explorer](https://gitexplorer.com/)
+- https://github.com/nvie/gitflow
+- https://nvie.com/posts/a-successful-git-branching-model/
+- https://github.com/tiimgreen/github-cheat-sheet#readme
+- https://learngitbranching.js.org/
+- https://github.com/UnseenWizzard/git_training
+- https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
 
 ### Agile Development
 
@@ -50,6 +57,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [Van Schneider](https://www.vanschneider.com/colors)
   - [Culrs](https://culrs.com/#/)
   - [Colorbox](https://www.colorbox.io/)
+  - https://color.adobe.com/create
 
 - Font
 
@@ -64,8 +72,11 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 * Icons
   - [Feathericons](https://feathericons.com/)
   - [Unicons](https://iconscout.com/unicons)
+  - [Boxicons](https://boxicons.com/)
+  - [SVG Icons](http://simpleicons.org/)
 
 - Resources & Tools
+  - https://mailgo.js.org/
   - https://www.designcurated.io/
   - http://www.uigoodies.com/
   - https://github.com/LisaDziuba/Awesome-Design-Tools
@@ -80,6 +91,16 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 - [SemVer](https://semver.org/)
 
 ### HTTP/HTTPS
+
+-https://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/ -[HTTP2](https://kinsta.com/learn/what-is-http2/)  
+-[HTTP3](https://blog.erratasec.com/2018/11/some-notes-about-http3.html)
+https://kamranahmed.info/blog/2016/08/13/http-in-depth/
+
+### Web Security
+
+https://www.freecodecamp.org/news/a-quick-introduction-to-web-security-f90beaf4dd41/
+https://github.com/vasanthk/web-security-basics
+https://martinfowler.com/bliki/CQRS.html
 
 ### SOLID, KISS, YAGNI
 
@@ -96,6 +117,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### How Browsers work
 
+https://github.com/vasanthk/how-web-works
+
 ### DNS
 
 - [DNS in One Picture](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
@@ -104,11 +127,13 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### Browser Dev Tools
 
-### Productivity
+### Productivity & Soft Skills
 
 - [Learn in public](https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5)
 - [I am a mediocre Developer](https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn)
 - [8 am](https://benjaminhardy.com/8am/)
+- https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/en/
+- https://github.com/elsewhencode/project-guidelines
 
 ### Markdown
 
@@ -124,10 +149,6 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 - [tl;dr Legal](https://tldrlegal.com/)
 - [Choose a License](https://choosealicense.com/)
-
-### Soft Skills
-
-- https://github.com/elsewhencode/project-guidelines
 
 ### JSON
 
@@ -165,20 +186,36 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 - CSS Basics
   - [Tympanus CSS Reference](https://tympanus.net/codrops/css_reference/)
+  - [CSS Reference](https://cssreference.io/)
   - [Font Inpection - Browser Extension](https://fontanello.oktavilla.se/)
   - https://getcssscan.com/
+  - https://github.com/vasanthk/css-refresher-notes
 - CSS3
+
   - [freefrontend.com](https://freefrontend.com/)
   - [Clip Path Maker](https://bennettfeely.com/clippy/)
   - [CSS FX ](https://cssfx.dev/)
   - [Blend Mode](https://blendy.ml/)
   - [Gradient Borders](https://css-tricks.com/gradient-borders-in-css/)
   - [Codyhouse](codyhouse.co/)
+  - [Codrops](https://tympanus.net/codrops/)
   - [Multi Line](https://codepen.io/tfoh/full/VQqRdB/)
   - [Stripe Background Gradient](https://codepen.io/tfoh/full/YxYxbj/)
+  - [Shapes](https://tympanus.net/codrops/2018/11/29/an-introduction-to-css-shapes/)
+  - general http://animista.net
+    general https://daneden.github.io/animate.css/
+    general https://ianlunn.github.io/Hover/
+    Buttons, hover, inputs, and loaders https://cssfx.dev
+    Spinners https://tobiasahlin.com/spinkit/
+    Burgers https://march08.github.io/animated-burgers/
+    Burgers http://negomi.github.io/react-burger-menu/
+    Layout https://github.com/aholachek/react-flip-toolkit
+    Hover and loaders: https://www.csswand.dev/
+
 - Media Queries
   - https://sizzy.co/
 - Media Layout
+
   - Display
   - Positioning
   - Floats
@@ -189,6 +226,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
     - [Complete Guide to Grid - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
     - http://grid.malven.co/
 
+  https://codyhouse.co/library
+
 ### SVG
 
 - https://svgjs.com/docs/2.7/
@@ -196,7 +235,10 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ### Javascript Basics
 
 https://github.com/getify/You-Dont-Know-JS/
+https://github.com/leonardomso/33-js-concepts
+https://eloquentjavascript.net/
 
+- [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
 - Syntax & Basic Constructs
 - DOM Manipulation
@@ -210,6 +252,7 @@ https://github.com/getify/You-Dont-Know-JS/
 ### Package Managers
 
 - NPM
+  - [Beginner Guide](https://www.sitepoint.com/beginners-guide-node-package-manager/)
   - [NPM update Win](https://github.com/felixrieseberg/npm-windows-upgrade)
   - [Execute npm Package Binaries with the _npx_ Package Runner](https://egghead.io/lessons/npm-introduction-to-execute-npm-package-binaries-with-the-npx-package-runner)
 - Yarn
@@ -234,8 +277,12 @@ https://github.com/getify/You-Dont-Know-JS/
 
 ### Build Tools
 
+https://github.com/verekia/js-stack-from-scratch
+https://github.com/wesbos/dotfiles
+
 - Task Runner
   - NPM Script
+    - https://github.com/kentcdodds/cross-env
 - Module Bundler
   - Webpack
   - Parcel
@@ -251,6 +298,8 @@ https://github.com/getify/You-Dont-Know-JS/
 
 - What are SPAs?
 - Pros & Cons of SPAs?
+
+https://reacttraining.com/blog/javascript-the-react-parts/
 
 ### State Management
 
@@ -327,6 +376,7 @@ Calculating, measuring & improving Performance
   - https://imagecompressor.com/
   - https://caniuse.com/
   - https://squoosh.app/
+  - https://www.purgecss.com/
 - RAIL Model
 - Using Light House
 - Critical Rendering Path
@@ -508,6 +558,7 @@ What & how ?
 ### Serverless
 
 https://serverless.css-tricks.com/
+https://3factor.app/
 
 - FaaS
   - AWS Lambda
@@ -585,6 +636,7 @@ https://serverless.css-tricks.com/
 What is CI/CD?
 
 - TravisCI -> Linux, OSX, Windows
+  - https://lab.github.com/githubtraining/continuous-integration-with-travis-ci
 - Jenkins
 - CircleCI
 - Appveyor (Win)
