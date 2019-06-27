@@ -67,6 +67,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [Web Design Trends 2019](https://webflow.com/blog/20-web-design-trends-for-2019)
   - [Hall of Fame](https://www.pages.xyz/)
   - [One Page Love](https://onepagelove.com/)
+  - [Uplabs](uplabs.com)
   - https://twitter.com/i/moments/994601867987619840
 
 * Icons
@@ -76,6 +77,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [SVG Icons](http://simpleicons.org/)
 
 - Resources & Tools
+  - uplabs.com
   - https://mailgo.js.org/
   - https://www.designcurated.io/
   - http://www.uigoodies.com/
