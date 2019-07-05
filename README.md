@@ -250,6 +250,7 @@ https://eloquentjavascript.net/
 - Fetch API / Ajax(XHR)
 - Modular JS
 - Event Bubbling
+  - !https://stackoverflow.com/questions/4616694/what-is-event-bubbling-and-capturing#4616720
 
 ### Package Managers
 
