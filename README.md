@@ -242,6 +242,7 @@ https://eloquentjavascript.net/
 
 - [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
+- [Quiz](https://github.com/lydiahallie/javascript-questions)
 - Syntax & Basic Constructs
 - DOM Manipulation
 - Scope
