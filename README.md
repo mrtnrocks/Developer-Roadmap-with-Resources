@@ -240,11 +240,14 @@ https://github.com/getify/You-Dont-Know-JS/
 https://github.com/leonardomso/33-js-concepts
 https://eloquentjavascript.net/
 
+http://codingheroes.io/resources/
+
 - [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
 - [Quiz](https://github.com/lydiahallie/javascript-questions)
 - Syntax & Basic Constructs
 - DOM Manipulation
+  !http://youmightnotneedjquery.com/
 - Scope
 - ES6
 - Hoisting
