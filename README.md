@@ -246,8 +246,9 @@ http://codingheroes.io/resources/
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
 - [Quiz](https://github.com/lydiahallie/javascript-questions)
 - Syntax & Basic Constructs
-- DOM Manipulation
-  !http://youmightnotneedjquery.com/
+- DOM Manipulation  
+  https://blog.garstasio.com/you-dont-need-jquery/dom-manipulation/  
+  http://youmightnotneedjquery.com/
 - Scope
 - ES6
 - Hoisting
