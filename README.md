@@ -112,6 +112,7 @@ https://martinfowler.com/bliki/CQRS.html
 - [Microsoft - VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 - [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - https://coder.com/
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
 ### Character Encodings
 
@@ -287,6 +288,8 @@ http://codingheroes.io/resources/
 
 https://github.com/verekia/js-stack-from-scratch
 https://github.com/wesbos/dotfiles
+https://github.com/lerna/lerna
+
 
 - Task Runner
   - NPM Script
