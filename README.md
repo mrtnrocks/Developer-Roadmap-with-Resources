@@ -339,6 +339,7 @@ https://reacttraining.com/blog/javascript-the-react-parts/
 
 * Storybook
   - https://egghead.io/lessons/react-introducing-design-systems-with-react-and-typescript-in-storybook
+  - https://www.learnstorybook.com/
 
 ### Type Checking
 
