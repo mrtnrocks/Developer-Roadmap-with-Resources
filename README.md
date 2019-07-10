@@ -237,6 +237,7 @@ https://github.com/vasanthk/how-web-works
 
 ### Javascript Basics
 
+https://javascript.info/
 https://github.com/getify/You-Dont-Know-JS/
 https://github.com/leonardomso/33-js-concepts
 https://eloquentjavascript.net/
