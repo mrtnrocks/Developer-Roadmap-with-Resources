@@ -153,6 +153,7 @@ https://github.com/vasanthk/how-web-works
 
 - [tl;dr Legal](https://tldrlegal.com/)
 - [Choose a License](https://choosealicense.com/)
+- [CLI Licensed](https://github.com/plibither8/licensed)
 
 ### JSON
 
