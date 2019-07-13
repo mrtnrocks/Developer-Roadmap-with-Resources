@@ -475,7 +475,8 @@ It is faster than JS and has already shipped in all major browsers
   - Create + Publish Package
 - Contribute to Open Source
   - [FCC - How to contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-  - [First Contributions](https://github.com/firstcontributions/first-contributions)
+  - [First Contributions](https://github.com/firstcontributions/first-contributions)  
+  - [Opensource Guide](https://opensource.guide/)  
 - Security
   - OWASP / NodeGoat
 - Community Standards & Best Practices
