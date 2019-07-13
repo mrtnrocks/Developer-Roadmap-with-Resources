@@ -242,7 +242,8 @@ https://github.com/vasanthk/how-web-works
 https://javascript.info/
 https://github.com/getify/You-Dont-Know-JS/
 https://github.com/leonardomso/33-js-concepts
-https://eloquentjavascript.net/
+https://eloquentjavascript.net/  
+https://github.com/mbeaudru/modern-js-cheatsheet  
 
 http://codingheroes.io/resources/
 
