@@ -93,6 +93,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ### Semantic Versioning
 
 - [SemVer](https://semver.org/)
+- [Primer on SemVer](https://nodesource.com/blog/semver-a-primer/]  
 
 ### HTTP/HTTPS
 
