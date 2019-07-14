@@ -170,7 +170,8 @@ https://github.com/vasanthk/how-web-works
 
 ## Frontend
 
-[Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+[Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)  
+[Can I use](caniuse.com)
 
 ### HTML
 
