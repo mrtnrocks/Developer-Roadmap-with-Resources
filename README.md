@@ -20,6 +20,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ![DevRoadmap](/DevRoadmap.png)
 
 ## General Development Skills
+-[1x Engineer](https://1x.engineer/)  
 
 ### Learn to search for solutions
 
