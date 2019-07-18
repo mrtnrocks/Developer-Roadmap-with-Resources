@@ -255,7 +255,9 @@ https://github.com/vasanthk/how-web-works
 - http://codingheroes.io/resources/
 - [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
-- [Quiz](https://github.com/lydiahallie/javascript-questions)
+- [Quiz](https://github.com/lydiahallie/javascript-questions)  
+- [WTF.js](https://github.com/denysdovhan/wtfjs)
+
 - Syntax & Basic Constructs
 - DOM Manipulation  
   https://blog.garstasio.com/you-dont-need-jquery/dom-manipulation/  
