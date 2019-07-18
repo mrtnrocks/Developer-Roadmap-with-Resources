@@ -175,6 +175,8 @@ https://github.com/vasanthk/how-web-works
 
 ### HTML
 
+- [HTML Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/html-questions.md)
+
 - Basics
   - [Favicon Generator](https://favicon.io/)
   - [Favicon Checker](http://colinkeany.com/favicon-checker/)
@@ -191,6 +193,8 @@ https://github.com/vasanthk/how-web-works
   - [Web Accessibility Guide](https://webaccessibility.guide/)
 
 ### CSS
+
+- [CSS Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md)
 
 - CSS Basics
   - [Tympanus CSS Reference](https://tympanus.net/codrops/css_reference/)
@@ -242,14 +246,13 @@ https://github.com/vasanthk/how-web-works
 
 ### Javascript Basics
 
-https://javascript.info/
-https://github.com/getify/You-Dont-Know-JS/
-https://github.com/leonardomso/33-js-concepts
-https://eloquentjavascript.net/  
-https://github.com/mbeaudru/modern-js-cheatsheet  
-
-http://codingheroes.io/resources/
-
+- https://javascript.info/
+- https://github.com/getify/You-Dont-Know-JS/
+- https://github.com/leonardomso/33-js-concepts
+- https://eloquentjavascript.net/  
+- https://github.com/mbeaudru/modern-js-cheatsheet  
+- [JS Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
+- http://codingheroes.io/resources/
 - [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
 - [Quiz](https://github.com/lydiahallie/javascript-questions)
