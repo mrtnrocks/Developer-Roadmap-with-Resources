@@ -449,6 +449,7 @@ SPA vs SSR
 
 Constantly improve your JS Skills along the way
 https://github.com/getify/You-Dont-Know-JS/
+https://developers.google.com/search/docs/guides/javascript-seo-basics
 
 - OOP
 - Inheritance
