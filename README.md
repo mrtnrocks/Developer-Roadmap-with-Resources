@@ -472,6 +472,7 @@ It is faster than JS and has already shipped in all major browsers
 ## Backend
 
 ### Node.js Basics
+NVM Windows
 
 - Basics
   - Event Emitters
