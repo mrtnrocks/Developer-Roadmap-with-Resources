@@ -21,6 +21,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ## General Development Skills
 -[1x Engineer](https://1x.engineer/)  
+-[Getting a Gig](https://github.com/cassidoo/getting-a-gig)  
 
 ### Learn to search for solutions
 
