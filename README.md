@@ -117,6 +117,7 @@ https://martinfowler.com/bliki/CQRS.html
 - [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - https://coder.com/
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [EnvInfo](https://github.com/tabrindle/envinfo)
 
 ### Character Encodings
 
