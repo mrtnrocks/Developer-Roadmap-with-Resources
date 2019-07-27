@@ -229,7 +229,7 @@ https://github.com/vasanthk/how-web-works
 - Media Queries
   - https://sizzy.co/
 - Media Layout
-
+  https://every-layout.dev/
   - Display
   - Positioning
   - Floats
