@@ -342,6 +342,7 @@ https://reacttraining.com/blog/javascript-the-react-parts/
 
 ### Testing
 
+https://github.com/goldbergyoni/javascript-testing-best-practices
 - Learn the different types of testing & how to write these with tools below
 
   - Unit
