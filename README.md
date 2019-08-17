@@ -20,6 +20,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ![DevRoadmap](/DevRoadmap.png)
 
 ## General Development Skills
+-[1x Engineer](https://1x.engineer/)  
+-[Getting a Gig](https://github.com/cassidoo/getting-a-gig)  
 
 ### Learn to search for solutions
 
@@ -45,6 +47,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### UX/UI Basics
 
+- [Degreeless Design](https://www.degreeless.design/)  
 - [Front End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 
 - Roadmap
@@ -91,6 +94,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 ### Semantic Versioning
 
 - [SemVer](https://semver.org/)
+- [Primer on SemVer](https://nodesource.com/blog/semver-a-primer/]  
 
 ### HTTP/HTTPS
 
@@ -112,6 +116,8 @@ https://martinfowler.com/bliki/CQRS.html
 - [Microsoft - VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 - [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - https://coder.com/
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [EnvInfo](https://github.com/tabrindle/envinfo)
 
 ### Character Encodings
 
@@ -151,6 +157,7 @@ https://github.com/vasanthk/how-web-works
 
 - [tl;dr Legal](https://tldrlegal.com/)
 - [Choose a License](https://choosealicense.com/)
+- [CLI Licensed](https://github.com/plibither8/licensed)
 
 ### JSON
 
@@ -161,13 +168,18 @@ https://github.com/vasanthk/how-web-works
 
 ### Data Structures & Algorithms
 
+https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
+
 ### Regular Expressions
 
 ## Frontend
 
-[Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+[Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)  
+[Can I use](caniuse.com)
 
 ### HTML
+
+- [HTML Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/html-questions.md)
 
 - Basics
   - [Favicon Generator](https://favicon.io/)
@@ -185,6 +197,8 @@ https://github.com/vasanthk/how-web-works
   - [Web Accessibility Guide](https://webaccessibility.guide/)
 
 ### CSS
+
+- [CSS Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/css-questions.md)
 
 - CSS Basics
   - [Tympanus CSS Reference](https://tympanus.net/codrops/css_reference/)
@@ -217,7 +231,7 @@ https://github.com/vasanthk/how-web-works
 - Media Queries
   - https://sizzy.co/
 - Media Layout
-
+  https://every-layout.dev/
   - Display
   - Positioning
   - Floats
@@ -236,16 +250,31 @@ https://github.com/vasanthk/how-web-works
 
 ### Javascript Basics
 
+<<<<<<< HEAD
 http://javascript.info/  
 https://github.com/getify/You-Dont-Know-JS/
 https://github.com/leonardomso/33-js-concepts
 https://eloquentjavascript.net/
 https://github.com/goldbergyoni/javascript-testing-best-practices
 
+=======
+- https://javascript.info/
+- https://github.com/getify/You-Dont-Know-JS/
+- https://github.com/leonardomso/33-js-concepts
+- https://eloquentjavascript.net/  
+- https://github.com/mbeaudru/modern-js-cheatsheet  
+- [JS Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
+- http://codingheroes.io/resources/
+>>>>>>> 1566164fd793056e6bbb3c992646f5039f5cdd0a
 - [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
+- [Quiz](https://github.com/lydiahallie/javascript-questions)  
+- [WTF.js](https://github.com/denysdovhan/wtfjs)
+
 - Syntax & Basic Constructs
-- DOM Manipulation
+- DOM Manipulation  
+  https://blog.garstasio.com/you-dont-need-jquery/dom-manipulation/  
+  http://youmightnotneedjquery.com/
 - Scope
 - ES6
 - Hoisting
@@ -284,6 +313,8 @@ https://github.com/goldbergyoni/javascript-testing-best-practices
 
 https://github.com/verekia/js-stack-from-scratch
 https://github.com/wesbos/dotfiles
+https://github.com/lerna/lerna
+
 
 - Task Runner
   - NPM Script
@@ -301,6 +332,7 @@ https://github.com/wesbos/dotfiles
 
 ### React
 
+- [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - What are SPAs?
 - Pros & Cons of SPAs?
 
@@ -319,6 +351,7 @@ https://reacttraining.com/blog/javascript-the-react-parts/
 
 ### Testing
 
+https://github.com/goldbergyoni/javascript-testing-best-practices
 - Learn the different types of testing & how to write these with tools below
 
   - Unit
@@ -333,6 +366,7 @@ https://reacttraining.com/blog/javascript-the-react-parts/
 
 * Storybook
   - https://egghead.io/lessons/react-introducing-design-systems-with-react-and-typescript-in-storybook
+  - https://www.learnstorybook.com/
 
 ### Type Checking
 
@@ -429,6 +463,7 @@ SPA vs SSR
 
 Constantly improve your JS Skills along the way
 https://github.com/getify/You-Dont-Know-JS/
+https://developers.google.com/search/docs/guides/javascript-seo-basics
 
 - OOP
 - Inheritance
@@ -450,6 +485,7 @@ It is faster than JS and has already shipped in all major browsers
 ## Backend
 
 ### Node.js Basics
+NVM Windows
 
 - Basics
   - Event Emitters
@@ -464,7 +500,8 @@ It is faster than JS and has already shipped in all major browsers
   - Create + Publish Package
 - Contribute to Open Source
   - [FCC - How to contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-  - [First Contributions](https://github.com/firstcontributions/first-contributions)
+  - [First Contributions](https://github.com/firstcontributions/first-contributions)  
+  - [Opensource Guide](https://opensource.guide/)  
 - Security
   - OWASP / NodeGoat
 - Community Standards & Best Practices
