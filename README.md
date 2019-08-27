@@ -166,10 +166,6 @@ https://github.com/vasanthk/how-web-works
 - [The Art of Command-line](https://github.com/jlevy/the-art-of-command-line#windows-only)
 - https://explainshell.com/
 
-### Data Structures & Algorithms
-
-https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
-
 ### Regular Expressions
 
 ## Frontend
@@ -250,7 +246,6 @@ https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
 
 ### Javascript Basics
 
-<<<<<<< HEAD
 http://javascript.info/  
 https://github.com/getify/You-Dont-Know-JS/
 https://github.com/leonardomso/33-js-concepts
@@ -265,7 +260,6 @@ https://github.com/goldbergyoni/javascript-testing-best-practices
 - https://github.com/mbeaudru/modern-js-cheatsheet  
 - [JS Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
 - http://codingheroes.io/resources/
->>>>>>> 1566164fd793056e6bbb3c992646f5039f5cdd0a
 - [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 - [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript#solid)
 - [Quiz](https://github.com/lydiahallie/javascript-questions)  
@@ -472,7 +466,10 @@ https://developers.google.com/search/docs/guides/javascript-seo-basics
 - Typescript
 - Debugging
 - Algorithms & Data Structures
-  - https://github.com/trekhleb/javascript-algorithms
+  - https://github.com/trekhleb/javascript-algorithms  
+  - https://github.com/jamiebuilds/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js  
+  - https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript
+  - 
 - ES7+
 - Design Patterns
   - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
@@ -715,5 +712,6 @@ What is CI/CD?
 
 ### Additional: Computer Science
 
-[Teach yourself CS](https://teachyourselfcs.com/)
-[Udacity - Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
+[Teach yourself CS](https://teachyourselfcs.com/)  
+[Udacity - Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)  
+[Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
