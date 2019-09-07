@@ -100,7 +100,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 -https://kamranahmed.info/blog/2017/03/14/quick-guide-to-http-caching/ -[HTTP2](https://kinsta.com/learn/what-is-http2/)  
 -[HTTP3](https://blog.erratasec.com/2018/11/some-notes-about-http3.html)
-https://kamranahmed.info/blog/2016/08/13/http-in-depth/
+https://kamranahmed.info/blog/2016/08/13/http-in-depth/  
+- [How HTTPS Works](https://howhttps.works/)
 
 ### Web Security
 
@@ -117,7 +118,9 @@ https://martinfowler.com/bliki/CQRS.html
 - [Setup VS Code + ES Lint + Prettier](https://www.youtube.com/watch?v=YIvjKId9m2c)
 - https://coder.com/
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-- [EnvInfo](https://github.com/tabrindle/envinfo)
+- [EnvInfo](https://github.com/tabrindle/envinfo)  
+- [Full Stack VS Code](https://www.jonrcorbin.com/the-best-vs-code-extension-list-for-full-stack-developers/)  
+
 
 ### Character Encodings
 
