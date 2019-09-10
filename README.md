@@ -38,7 +38,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 - https://github.com/tiimgreen/github-cheat-sheet#readme
 - https://learngitbranching.js.org/
 - https://github.com/UnseenWizzard/git_training
-- https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html
+- https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html  
+- https://dev.to/chrisachard/confused-by-git-here-s-a-git-crash-course-to-fix-that-4cmi
 
 ### Agile Development
 
