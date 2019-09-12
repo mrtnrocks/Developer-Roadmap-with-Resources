@@ -287,7 +287,8 @@ https://github.com/goldbergyoni/javascript-testing-best-practices
 - NPM
   - [Beginner Guide](https://www.sitepoint.com/beginners-guide-node-package-manager/)
   - [NPM update Win](https://github.com/felixrieseberg/npm-windows-upgrade)
-  - [Execute npm Package Binaries with the _npx_ Package Runner](https://egghead.io/lessons/npm-introduction-to-execute-npm-package-binaries-with-the-npx-package-runner)
+  - [Execute npm Package Binaries with the _npx_ Package Runner](https://egghead.io/lessons/npm-introduction-to-execute-npm-package-binaries-with-the-npx-package-runner)  
+  - [NPM Check Updates](https://github.com/tjunnone/npm-check-updates)
 - Yarn
 - PNPM
 
