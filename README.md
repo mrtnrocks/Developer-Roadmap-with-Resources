@@ -27,7 +27,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### Git & Github
 
-- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
+- [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)  
 - [How to callaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github)
 - [Git Standup](https://github.com/kamranahmedse/git-standup)
 - [Trunk based Dev vs Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow?utm_campaign=Engigogo%2BDigest&utm_medium=email&utm_source=Engigogo_Digest_41)
@@ -332,7 +333,8 @@ https://github.com/lerna/lerna
 
 ### React
 
-- [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)  
+- [Learn React in 10 Tweets (with hooks)](https://dev.to/chrisachard/learn-react-in-10-tweets-with-hooks-59bc)  
 - What are SPAs?
 - Pros & Cons of SPAs?
 
@@ -351,7 +353,8 @@ https://reacttraining.com/blog/javascript-the-react-parts/
 
 ### Testing
 
-https://github.com/goldbergyoni/javascript-testing-best-practices
+https://github.com/goldbergyoni/javascript-testing-best-practices  
+[Testing Javascript](https://testingjavascript.com/)
 - Learn the different types of testing & how to write these with tools below
 
   - Unit
@@ -722,4 +725,5 @@ What is CI/CD?
 
 [Teach yourself CS](https://teachyourselfcs.com/)  
 [Udacity - Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)  
-[Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)
+[Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)  
+[Software Design & Architecture Map](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
