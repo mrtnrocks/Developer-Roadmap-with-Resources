@@ -91,7 +91,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [Beautiful Screenshot Mockups](https://www.screely.com/)
   - [Evernote.Design](https://www.evernote.design/)
   - [SVG Porn](https://svgporn.com/)
-  - https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/
+  - https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/  
+  - https://icons8.com/vector-creator/  
 
 ### Semantic Versioning
 
