@@ -27,11 +27,12 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 ### Git & Github
 
+- [JAMstack Conf Git](https://www.youtube.com/watch?v=PqlhYVqLDm0)  
 - [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
 - [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)  
 - [How to callaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github)
 - [Git Standup](https://github.com/kamranahmedse/git-standup)
-- [Trunk based Dev vs Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow?utm_campaign=Engigogo%2BDigest&utm_medium=email&utm_source=Engigogo_Digest_41)
+- [Trunk based Dev vs Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow)  
 - [.gitignore CLI](https://dev.to/christopherkade/i-created-a-gitignore-command-line-generator-4b0h)
 - [Git Explorer](https://gitexplorer.com/)
 - https://github.com/nvie/gitflow
