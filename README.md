@@ -66,8 +66,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - https://color.adobe.com/create
 
 - Font
-
-  - [Font Pairings](https://logosbynick.com/logo-font-pairings/)
+  - [Font Pairings by People](https://fontpairing.bypeople.com/)  
+  - [Font Pairings](https://logosbynick.com/logo-font-pairings/)  
 
 - Inspiration
   - [Web Design Trends 2019](https://webflow.com/blog/20-web-design-trends-for-2019)
@@ -80,7 +80,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [Feathericons](https://feathericons.com/)
   - [Unicons](https://iconscout.com/unicons)
   - [Boxicons](https://boxicons.com/)
-  - [SVG Icons](http://simpleicons.org/)
+  - [SVG Icons](http://simpleicons.org/)  
+  - [Icons8 - Line Awesome](https://icons8.com/line-awesome)
 
 - Resources & Tools
   - uplabs.com
