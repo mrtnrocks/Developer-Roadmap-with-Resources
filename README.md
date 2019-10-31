@@ -187,7 +187,8 @@ https://github.com/vasanthk/how-web-works
 
 - Basics
   - [Favicon Generator](https://favicon.io/)
-  - [Favicon Checker](http://colinkeany.com/favicon-checker/)
+  - [Favicon Checker](http://colinkeany.com/favicon-checker/)  
+  - [HTML Head](https://htmlhead.dev/)
 - Semantics HTML
   - https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
 - Basic SEO
