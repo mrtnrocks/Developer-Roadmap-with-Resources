@@ -137,7 +137,7 @@ https://github.com/vasanthk/how-web-works
 
 ### DNS
 
-- [DNS in One Picture](https://medium.com/@kamranahmedse/dns-in-one-picture-d7f4783db06a)
+- [DNS in One Picture](https://roadmap.sh/guides/dns-in-one-picture)
 - [Web Devs Guide to DNS](https://rjzaworski.com/2019/04/the-web-developers-guide-to-dns)
 - [How DNS works](https://howdns.works/)
 
