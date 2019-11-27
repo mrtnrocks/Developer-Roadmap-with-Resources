@@ -63,7 +63,8 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
   - [Van Schneider](https://www.vanschneider.com/colors)
   - [Culrs](https://culrs.com/#/)
   - [Colorbox](https://www.colorbox.io/)
-  - https://color.adobe.com/create
+  - https://color.adobe.com/create  
+  - [Happy Hues](https://www.happyhues.co)  
 
 - Font
   - [Font Pairings by People](https://fontpairing.bypeople.com/)  
