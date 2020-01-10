@@ -418,6 +418,7 @@ Calculating, measuring & improving Performance
 
 - REPL Pattern
 - Performance
+  - https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/#download-the-checklist
   - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
   - https://web.dev/
   - https://instant.page/
