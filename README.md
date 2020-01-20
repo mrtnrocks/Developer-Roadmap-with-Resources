@@ -736,4 +736,5 @@ What is CI/CD?
 [Teach yourself CS](https://teachyourselfcs.com/)  
 [Udacity - Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)  
 [Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js)  
-[Software Design & Architecture Map](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)
+[Software Design & Architecture Map](https://github.com/stemmlerjs/software-design-and-architecture-roadmap)  
+[Software Architecture](https://github.com/justinamiller/SoftwareArchitect)
