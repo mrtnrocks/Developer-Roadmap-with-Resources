@@ -102,6 +102,7 @@ The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
 - [SemVer](https://semver.org/)
 - [Primer on SemVer](https://nodesource.com/blog/semver-a-primer/]  
+- [Semantic Release](https://github.com/semantic-release/semantic-release)  
 
 ### HTTP/HTTPS
 
