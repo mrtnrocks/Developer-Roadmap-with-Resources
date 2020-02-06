@@ -175,7 +175,8 @@ https://github.com/vasanthk/how-web-works
 ### Basic Terminal Usage
 
 - [The Art of Command-line](https://github.com/jlevy/the-art-of-command-line#windows-only)
-- https://explainshell.com/
+- https://explainshell.com/  
+- [You dont't need GUIs](https://github.com/you-dont-need/You-Dont-Need-GUI)  
 
 ### Regular Expressions
 
