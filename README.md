@@ -178,7 +178,9 @@ https://github.com/vasanthk/how-web-works
 - https://explainshell.com/  
 - [You dont't need GUIs](https://github.com/you-dont-need/You-Dont-Need-GUI)  
 
-### Regular Expressions
+### Regular Expressions  
+
+-[Learn Regex](https://github.com/ziishaned/learn-regex)  
 
 ## Frontend
 
