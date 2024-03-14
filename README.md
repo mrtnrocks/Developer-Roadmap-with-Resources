@@ -2,7 +2,7 @@
 
 Goal: Filling my skill gaps to become a Fullstack Javascript Developer
 
-I compiled this opinionated roadmap from the following sources: 
+I compiled this opinionated roadmap from the following sources:  
 
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Freecodecamp](https://learn.freecodecamp.org/)
