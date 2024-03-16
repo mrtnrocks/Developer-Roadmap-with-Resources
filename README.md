@@ -13,7 +13,7 @@ I compiled this opinionated roadmap from the following sources:
 - [Node Developer Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [ Developer Survey Results 2019](insights.stackoverflow.com/survey/2019)
-- [State of CSS 2019](https://2019.stateofcss.com/)
+- [State of CSS 2019](https://2019.stateofcss.com/) 
 
 The Roadmap is not 100% correct, but sufficient accurate for my purpose.
 
