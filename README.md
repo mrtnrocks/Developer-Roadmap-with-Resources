@@ -4,7 +4,7 @@ Goal: Filling my skill gaps to become a Fullstack Javascript Developer
  
 I compiled this opinionated roadmap from the following sources:    
  
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)    
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)     
 - [Freecodecamp](https://learn.freecodecamp.org/)
 - [State of JS 2018](https://2018.stateofjs.com/)
 - [The Complete Web Developer in 2018 Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery/)
